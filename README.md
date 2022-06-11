@@ -29,6 +29,7 @@ Langkah-langkah praktikum</b>
 ![image](https://user-images.githubusercontent.com/101716699/173183936-3916920e-f6d5-499b-aa69-004396aae3ac.png)
 
 2. Persiapkan teks editor kemudian buat file baru dengan nama index.php, dengan kode seperti pada gambar dibawah ini.
+   saya mengincludkan library bootstrap dan fontawesome.
 
 ![image](https://user-images.githubusercontent.com/101716699/173184018-be46e95c-81c6-466c-8215-4fd0aaf7d2d6.png)
 ![image](https://user-images.githubusercontent.com/101716699/173184101-f2e8f941-326e-4003-87be-1c8de938ab2d.png)
@@ -51,7 +52,20 @@ Kemudian simpan dan buka pada browser dengan link localhost/adminklinik/index.ph
 ![image](https://user-images.githubusercontent.com/101716699/173184698-0893ff2f-2784-431e-8a4b-66e951ca7f09.png)
 Kemudian simpan dan buka pada brower dengan klik navigasi Data.
 
-![image](https://user-images.githubusercontent.com/101716699/173184744-c0e6e74d-61d8-4876-9124-f47def4a8309.png)
+![image](https://user-images.githubusercontent.com/101716699/173184895-73ca49fd-c2db-4b4d-9f3a-4235348a05ef.png)
+
+4. Kemudian lakukan pengecekan pada masing-masing data diantaranya, data pasien, obat, dokter, berobat, resep. dengan klik navigasi lihat detai.
+
+![image](https://user-images.githubusercontent.com/101716699/173185023-cad79602-87ee-4994-b261-4e347970c856.png)
+![image](https://user-images.githubusercontent.com/101716699/173185036-c3089be9-e632-4e6a-a392-9f5606333581.png)
+![image](https://user-images.githubusercontent.com/101716699/173185165-c51d4274-617d-4b2d-92bc-964bcc172cc3.png)
+![image](https://user-images.githubusercontent.com/101716699/173185178-b05766a9-d5ba-4b51-ac84-9eb664216f30.png)
+![image](https://user-images.githubusercontent.com/101716699/173185191-df2ffba8-d848-44f5-bd36-285bfe0dd0b5.png)
+
+
+
+
+
 
 
 
